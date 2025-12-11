@@ -46,15 +46,17 @@ pip install -r requirements.txt
 4️⃣ Run Streamlit App
 streamlit run app.py
 
-## 📊 Model Input Parameters
-Parameter	Description
-Age	Age of the mother
-Systolic_BP	Systolic blood pressure
-Diastolic_BP	Diastolic blood pressure
-Blood Sugar	Blood sugar level
-Body Temperature	Recorded temperature
-Heart Rate	BPM
-🧪 Output
+| Parameter        | Description              |
+| ---------------- | ------------------------ |
+| Age              | Age of the mother        |
+| Systolic_BP      | Systolic blood pressure  |
+| Diastolic_BP     | Diastolic blood pressure |
+| Blood Sugar      | Blood sugar level        |
+| Body Temperature | Recorded temperature     |
+| Heart Rate       | BPM                      |
+
+
+## 🧪 Output
 
 The model predicts Low, Medium, or High maternal health risk.
 
